@@ -15,9 +15,9 @@ A verification session is used to invoke a verifiedly UI element. Whether on a b
 
 A successful session request includes the following;
 
-1. status
-2. session
-3. link
+1. [status](#status)
+2. [session](#session)
+3. [link](#link)
 
 ### Status
 A status basically informs you of the status of the request.
@@ -27,3 +27,24 @@ A session is what is used to invoke a verification session in whatever environme
 
 ### Link
 A link is also provided incase you want to pass that to your frontend, to allow your user confinently click on a verification button. 
+
+
+## Requesting a KYC session
+``` js
+verifiedly.getKycSession().then(response => {
+    console.log(response)
+}) .catch(error => {
+    console.log(error)
+})
+
+```
+
+## Requesting a KYB session
+``` js
+verifiedly.getKybSession().then(response => {
+    console.log(response)
+}) .catch(error => {
+    console.log(error)
+})
+
+```
