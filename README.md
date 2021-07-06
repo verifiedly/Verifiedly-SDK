@@ -9,7 +9,7 @@ A full documentation and getting started guide can be found [Here](https://verif
 
 ## Usage
 ``` js
-const verifiedly = require('./index')('API_KEY_HERE')
+const verifiedly = require('verifiedly')('API_KEY_HERE')
 
 ``` 
 
