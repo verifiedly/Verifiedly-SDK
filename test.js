@@ -1,4 +1,4 @@
-const verifiedly = require('./index')('ZhYg97ojMt7xkHUTf2u49u4fg234uf1iF24871')
+const verifiedly = require('./index')('API_KEY_HERE')
 
 
 
