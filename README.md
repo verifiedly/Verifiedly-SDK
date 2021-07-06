@@ -8,7 +8,10 @@ A full documentation and getting started guide can be found [Here](https://verif
 `npm i verifiedly`
 
 ## Usage
-`const verifiedly = require('./index')('API_KEY_HERE')`
+``` js
+const verifiedly = require('./index')('API_KEY_HERE')
+
+``` 
 
 ### Verification Sessions
 A verification session is used to invoke a verifiedly UI element. Whether on a browser or in a mobile application.
