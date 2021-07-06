@@ -1,0 +1,29 @@
+{
+  "name": "verifiedly",
+  "version": "1.0.0",
+  "description": "NodeJS library for the verifiedly API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verifiedly/Verifiedly-SDK.git"
+  },
+  "keywords": [
+    "KYC",
+    "KYB",
+    "VERIFIEDLY",
+    "FRAUD",
+    "PREVENTION"
+  ],
+  "author": "Samuel Ailemen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verifiedly/Verifiedly-SDK/issues"
+  },
+  "homepage": "https://github.com/verifiedly/Verifiedly-SDK#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
