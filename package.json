@@ -1,6 +1,6 @@
 {
   "name": "verifiedly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS library for the verifiedly API ",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "KYB",
     "VERIFIEDLY",
     "FRAUD",
-    "PREVENTION"
+    "PREVENTION",
+    "VERIFICATION",
+    "IDENTITY"
   ],
   "author": "Samuel Ailemen",
   "license": "ISC",
