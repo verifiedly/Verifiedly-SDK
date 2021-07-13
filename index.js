@@ -12,7 +12,7 @@ function Verifiedly(key) {
 }
 
 //let BASE = 'https://api.verified.ly/v1'
-let BASE = 'http://localhost:3000'
+let BASE = 'https://api.verified.ly/v1'
 let apikey
 
 
